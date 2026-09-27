@@ -1617,100 +1617,78 @@
   {
     "objectID": "portfolio/week-04.html",
     "href": "portfolio/week-04.html",
-    "title": "Five-Language Translation Portfolio",
+    "title": "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography",
     "section": "",
-    "text": "Mengadaptasi repertoire dan language tanpa mengubah core meaning.",
+    "text": "CatatanPrinsip Utama Bab 4\n\n\n\n“Jangan pernah mengubah kebenaran agar mudah diterima, melainkan ubahlah cara membawa kebenaran agar dapat dipahami.”[cite: 4]",
     "crumbs": [
       "Beranda",
-      "Five-Language Translation Portfolio"
+      "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#kompetensi-target",
     "href": "portfolio/week-04.html#kompetensi-target",
-    "title": "Five-Language Translation Portfolio",
-    "section": "",
-    "text": "Mengadaptasi repertoire dan language tanpa mengubah core meaning.",
+    "title": "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography",
+    "section": "Kompetensi Target",
+    "text": "Kompetensi Target\nMengadaptasi repertoire dan pilihan bahasa tanpa mengubah kebenaran inti konsep (core meaning) dengan mengatasi kecenderungan “Kutukan Pengetahuan” (Curse of Knowledge)[cite: 4].",
     "crumbs": [
       "Beranda",
-      "Five-Language Translation Portfolio"
+      "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#evidence-wajib",
-    "href": "portfolio/week-04.html#evidence-wajib",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nLima versi untuk friend, technical peer, manager, customer, dan public.\nAlasan perubahan language dan repertoire.\nFeedback understanding dari sedikitnya satu target.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "objectID": "portfolio/week-04.html#tahap-1-detoks-jargon-dekonstruksi-konsep",
+    "href": "portfolio/week-04.html#tahap-1-detoks-jargon-dekonstruksi-konsep",
+    "title": "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography",
+    "section": "Tahap 1: Detoks Jargon (Dekonstruksi Konsep)",
+    "text": "Tahap 1: Detoks Jargon (Dekonstruksi Konsep)\n\nKonsep Teknis yang Dipilih: Enkripsi Kunci Publik (Public Key Cryptography / Kriptografi Asimetris).\nDefinisi Teknis Awal (Buku Teks): “Skema kriptografi asimetris yang menggunakan sepasang kunci terinterkoneksi secara matematis—kunci publik untuk enkripsi data dan kunci privat untuk dekripsi data—guna menjamin kerahasiaan (confidentiality), integritas, serta autentikasi komunikasi digital tanpa perlu membagikan kunci rahasia terlebih dahulu melalui saluran yang tidak aman.”\n\n\nIdentifikasi & Arti Sederhana Jargon\n\n\n\n\n\n\n\nJargon Teknis\nArti Sederhana\n\n\n\n\nKriptografi Asimetris\nMetode pengamanan data yang menggunakan dua kunci berbeda (publik & privat) yang berpasangan secara matematis[cite: 4].\n\n\nEnkripsi & Dekripsi\nEnkripsi: Mengacak pesan asli menjadi kode rahasia. Dekripsi: Membuka acakan kode rahasia kembali menjadi pesan asli.\n\n\nAutentikasi & Kerahasiaan\nMemastikan pengirim pesan adalah orang yang asli (bukan penipu) dan memastikan isinya hanya bisa dibaca oleh penerima yang berhak[cite: 4].\n\n\n\n\nKebenaran Inti (Marrow of the Message): Cara aman mengirim pesan rahasia di internet menggunakan dua kunci berbeda, di mana siapa saja boleh mengunci pesannya, tetapi hanya satu orang pemilik kunci rahasia yang bisa membukanya.",
     "crumbs": [
       "Beranda",
-      "Five-Language Translation Portfolio"
+      "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#konteks-performance",
-    "href": "portfolio/week-04.html#konteks-performance",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "objectID": "portfolio/week-04.html#tahap-2-matriks-terjemahan-lima-bahasa",
+    "href": "portfolio/week-04.html#tahap-2-matriks-terjemahan-lima-bahasa",
+    "title": "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography",
+    "section": "Tahap 2: Matriks Terjemahan Lima Bahasa",
+    "text": "Tahap 2: Matriks Terjemahan Lima Bahasa\n\n1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)\n\nKarakteristik Pendengar: Menggunakan pemikiran konkret, menyukai imajinasi, dan belum mengenal istilah akademis[cite: 4].\nDraf Terjemahan: &gt; “Bayangkan kamu punya celengan gembok ajaib di kelas. Semua temanmu boleh memasukkan surat rahasia lewat lubang celengan itu dan langsung menguncinya. Tapi, cuma kamu satu-satunya orang yang pegang kunci untuk membuka celengan itu. Jadi, walaupun celengan itu dipegang atau dilihat teman-teman lain, surat rahasiamu tetap aman dan tidak ada yang bisa baca!”\n\n\n\n2. Ragam Bahasa: Sahabat (Beda Program Studi)\n\nKarakteristik Pendengar: Setara, santai, hangat, dan tanpa istilah akademis kaku[cite: 4].\nDraf Terjemahan: &gt; “Gampangnya gini, kalau kamu mau kirim pesan rahasia ke aku lewat internet, aku bakal bagiin gembok terbuka yang bisa dipakai siapa aja. Kamu tinggal kunci pesanmu pakai gembok itu, lalu kirim ke aku. Nah, cuma aku yang punya kunci fisiknya buat ngebuka gembok itu. Jadi walaupun pesan itu diintip orang di tengah jalan, mereka gak bakal bisa buka.”\n\n\n\n3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)\n\nKarakteristik Pendengar: Tuntutan efisiensi, akurasi tinggi, serta pembuktian logis[cite: 4].\nDraf Terjemahan: &gt; “Kita mengimplementasikan asymmetric public-key cryptography berbasis algoritma RSA/ECC. Pengirim mengenkripsi payload menggunakan public key penerima, dan hanya corresponding private key milik penerima yang secara matematis mampu melakukan decryption. Ini menjamin confidentiality dan non-repudiation tanpa memerlukan pre-shared key exchange di awal.”\n\n\n\n4. Ragam Bahasa: Manajer / Pengambil Keputusan (Aspek Bisnis)\n\nKarakteristik Pendengar: Berorientasi hasil, efisiensi alokasi sumber daya, manajemen risiko, dan dampak bisnis[cite: 4].\nDraf Terjemahan: &gt; “Dengan menerapkan sistem kunci publik ini, pelanggan dapat mengunggah dokumen sensitif (seperti KTP atau bukti transfer) secara langsung dan aman. Kita tidak perlu menyimpan kunci rahasia di jalur transmisi, sehingga menekan risiko kebocoran data pelanggan hingga 99%, menghindarkan perusahaan dari denda pelanggaran privasi data, serta meningkatkan kepercayaan konsumen saat bertransaksi.”\n\n\n\n5. Ragam Bahasa: Publik Umum (Masyarakat Luas)\n\nKarakteristik Pendengar: Heterogen, berfokus pada dampak langsung bagi keselamatan, kemudahan, atau kehidupan sehari-hari[cite: 4].\nDraf Terjemahan: &gt; “Teknologi ini bekerja persis seperti kotak surat rumah Anda. Siapa saja atau kurir mana pun bisa memasukkan surat ke dalam celah kotak surat tersebut, tetapi hanya Anda sebagai pemilik rumah yang memegang kunci untuk membuka dan membaca isi surat di dalamnya. Ini memastikan data pribadi Anda tetap aman saat berbelanja online atau menggunakan aplikasi perbankan.”",
     "crumbs": [
       "Beranda",
-      "Five-Language Translation Portfolio"
+      "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#evidence",
-    "href": "portfolio/week-04.html#evidence",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "objectID": "portfolio/week-04.html#uji-coba-understanding-adaptasi-pesan",
+    "href": "portfolio/week-04.html#uji-coba-understanding-adaptasi-pesan",
+    "title": "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography",
+    "section": "Uji Coba Understanding & Adaptasi Pesan",
+    "text": "Uji Coba Understanding & Adaptasi Pesan\n\nFeedback dari Target (Sahabat - Rian, Mahasiswa Manajemen)\n\nPengujian: Draf versi Sahabat dibaca oleh Rian tanpa memberikan penjelasan latar belakang terlebih dahulu.\nRespon & Pertanyaan: Rian memahami konsep gembok dan kunci, namun bertanya: “Kenapa gemboknya harus dibagi-bagikan ke umum di awal? Apa gak bahaya kalau gemboknya dicuri orang?”\nAdaptasi Pesan: Menambahkan kalimat penjelas pada versi Sahabat: “Gemboknya aman dibagiin ke siapa aja karena gembok cuma berfungsi buat mengunci pesan, bukan buat membukanya. Yang berbahaya itu kalau kunci pembukanya yang tersebar.” Adaptasi ini memperjelas mekanisme tanpa menambah jargon teknis[cite: 4].",
     "crumbs": [
       "Beranda",
-      "Five-Language Translation Portfolio"
+      "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#analisis-komunikasi",
-    "href": "portfolio/week-04.html#analisis-komunikasi",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "objectID": "portfolio/week-04.html#refleksi-pembelajaran-intrapribadi-catatan-ai",
+    "href": "portfolio/week-04.html#refleksi-pembelajaran-intrapribadi-catatan-ai",
+    "title": "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography",
+    "section": "Refleksi Pembelajaran (Intrapribadi) & Catatan AI",
+    "text": "Refleksi Pembelajaran (Intrapribadi) & Catatan AI\n\nRefleksi Diri\n\nRagam Bahasa Paling Sulit: Ragam Anak-Anak dan Manajer[cite: 4].\n\nAnak-Anak: Menuntut pembongkaran total konsep abstrak matematis menjadi objek fisik nyata tanpa mengurangi logika dasarnya[cite: 4].\nManajer: Menuntut pergeseran pola pikir dari “bagaimana cara kerjanya” menjadi “apa dampak finansial dan risikonya bagi organisasi”[cite: 4].\n\nPerubahan Cara Pandang Keilmuan: Proses dekonstruksi jargon menyadarkan saya bahwa memahami sebuah ilmu bukan berarti mampu menghafal istilah rumitnya, melainkan mampu menjelaskan esensinya kepada siapa saja[cite: 4].\n\n\n\nCatatan Penggunaan AI Kopilot\n\nPrompt AI yang Digunakan: \"Uji draf berikut: [Draf Versi Anak-Anak]. Berperanlah sebagai anak sekolah dasar usia 10 tahun. Apakah ada kata yang membuatmu bingung atau terlalu kaku?\"\nUmpan Balik AI: AI menyarankan untuk mengganti kata “data digital” dan “transmisi” menjadi “surat rahasia” dan “celengan gembok”, karena anak usia 10 tahun lebih cepat mencerna objek yang dapat diimajinasikan secara fisik[cite: 4].",
     "crumbs": [
       "Beranda",
-      "Five-Language Translation Portfolio"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#penggunaan-ai",
-    "href": "portfolio/week-04.html#penggunaan-ai",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
-    "crumbs": [
-      "Beranda",
-      "Five-Language Translation Portfolio"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
-    "crumbs": [
-      "Beranda",
-      "Five-Language Translation Portfolio"
+      "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#self-assessment",
     "href": "portfolio/week-04.html#self-assessment",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "title": "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography",
+    "section": "Self-Assessment",
+    "text": "Self-Assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence Singkat\n\n\n\n\nPerson & Character\n4\nMembedakan kebutuhan 5 audiens secara spesifik tanpa menggunakan stereotip kaku[cite: 4].\n\n\nObjective & State\n3\nKebenaran inti (marrow of the message) terjaga konsisten di seluruh versi terjemahan[cite: 4].\n\n\nRepertoire, Language & AI\n4\nMenggunakan 5 register bahasa yang kontras, bersih dari jargon pada ragam non-teknis, dan memanfaatkan AI secara efektif[cite: 4].\n\n\nResponse & Adaptation\n3\nMenguji draf pada target nyata (Rian) dan merevisi penjelasan berdasarkan responnya[cite: 4].\n\n\nAgreement, Action & Relationship\n4\nMenjaga martabat audiens, membangun kejelasan, serta merumuskan refleksi intrapribadi yang mendalam[cite: 4].\n\n\n\nTotal: 18/20 — Unggul.",
     "crumbs": [
       "Beranda",
-      "Five-Language Translation Portfolio"
+      "Portofolio Terjemahan Lima Bahasa: Public Key Cryptography"
     ]
   },
   {
@@ -1817,7 +1795,7 @@
     "href": "portfolio/index.html",
     "title": "Indeks Portfolio",
     "section": "",
-    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map — Minggu 1\n\n\nSiap dinilai\n\n\n18\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n18\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation: Mendengarkan Tanpa Memperbaiki\n\n\nSelesai\n\n\n19/20\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
+    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map — Minggu 1\n\n\nSiap dinilai\n\n\n18\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n18\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation: Mendengarkan Tanpa Memperbaiki\n\n\nSelesai\n\n\n19/20\n\n\n—\n\n\n\n\n\n\n4\n\n\nPortofolio Terjemahan Lima Bahasa: Public Key Cryptography\n\n\nSelesai\n\n\n18/20\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
