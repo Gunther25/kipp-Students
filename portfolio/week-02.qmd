@@ -1,16 +1,16 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: 18
 assessor_score: "—"
-description: "Evidence perubahan dari reaction menuju response."
+description: "Evidence perubahan dari reaksi otomatis (reaction) menuju respons terukur (chosen response) melalui pemisahan fakta dan narasi batin."
 categories: [Fondasi, Intra-Self]
 ---
 
 ## Kompetensi target
 
-Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Memisahkan event, fact, story, emotion, internal character, choice, dan action secara mendalam pada satu peristiwa komunikasi pribadi.
 
 ## Evidence wajib
 
@@ -18,8 +18,81 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-note title="Status Lembar Kerja"}
+Dokumen ini merupakan hasil pengisian Lembar Kerja Praktis: *Tiga Narasi atas Satu Peristiwa* yang diintegrasikan ke dalam portofolio mingguan.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Episode
+
+**Event:** Pesan koordinasi pembagian bab analisis di WhatsApp grup belum mendapat balasan dari dua anggota kelompok selama 6 jam, sementara tenggat waktu pengumpulan tersisa 24 jam.
+
+| Lapisan | Catatan Analisis Intrapersonal |
+|---|---|
+| **Fact** | Pesan dikirim pukul 09.00 WIB, berstatus *read* pukul 09.45 WIB, dan belum ada balasan teks hingga pukul 15.00 WIB. Tenggat pengumpulan adalah besok pukul 15.00 WIB. |
+| **Initial story** | "Rekan kelompok saya sengaja mengabaikan tugas, tidak bertanggung jawab, dan melepaskan seluruh beban pengerjaan kepada saya." |
+| **Emotion & Body signal** | Kecewa (8/10), Cemas (7/10). Rahang menegang, dada terasa sesak, dan dorongan impulsif untuk menutup aplikasi WhatsApp. |
+| **Reactive character** | **Sang Hakim / Defender:** Ingin menegur keras di grup atau menyindir di media sosial, lalu mengambil alih seluruh tugas secara sepihak. |
+| **Desired character** | **Sang Perencana / Pembelajar:** Berkomunikasi secara asertif, mengonfirmasi kendala objektif, dan mencari solusi pembagian peran yang realistis. |
+
+> **Catatan Pemisahan:** *Initial story* melampaui fakta objektif. Kenyataan yang terekam kamera hanya berupa belum adanya pesan masuk dalam rentang 6 jam; alasan ketidakbalasan belum terverifikasi secara langsung.
+
+---
+
+## Alternative narratives
+
+### 1. Narasi Korban (Victim Narrative)
+> *"Semua kendali di luar diri saya. Rekan kelompok tidak peduli dan saya ditakdirkan untuk selalu mengerjakan tugas kelompok sendirian tanpa keadilan."*
+* **Dampak:** Memicu aksi pasif-agresif (mendiamkan grup), pengambilalihan tugas secara terpaksa dengan rasa dendam, atau mengeluh di media sosial tanpa menyelesaikan masalah.
+
+### 2. Narasi Analitis (Analytical Narrative)
+> *"Fakta yang terbukti adalah pesan belum dibalas selama 6 jam. Ada hipotesis alternatif: mereka sedang mengalami kendala jaringan, urusan darurat keluarga, atau sedang fokus pada kelas lain. Faktor di bawah kendali langsung saya adalah cara saya menanyakan klarifikasi tanpa tuduhan."*
+* **Dampak:** Memperluas ruang persepsi, menurunkan ketegangan emosional, dan mengarahkan fokus pada pencarian data empiris.
+
+### 3. Narasi Pertumbuhan (Growth Narrative)
+> *"Situasi ini memang menantang dan emosi cemas saya valid. Namun, ini adalah kesempatan berharga untuk melatih kepemimpinan asertif, mengelola ekspektasi kelompok, dan belajar mengambil jeda sebelum merespons."*
+* **Dampak:** Mengubah frustrasi menjadi peluang latihan keterampilan komunikasi intrapersonal dan interpersonal secara matang.
+
+---
+
+## Internal conversation dan agreement
+
+> **Sang Hakim:** "Kirim pesan sindiran di grup sekarang! Jalankan tugas mereka sendirian agar mereka tahu diri."  
+> **Sang Pencemas:** "Bagaimana kalau tugas ini gagal total dan nilai kita hancur karena mereka tidak merespons?"  
+> **Sang Perencana:** "Tahan dulu. Kita belum tahu fakta sebenarnya. Memberi teguran emosional hanya akan merusak hubungan kerja sama tanpa menyelesaikan draf."  
+> **Diri Sadar:** "Saya memilih mengambil jeda bernapas selama 15 menit. Saya tidak akan membalas dengan emosi, melainkan mengirimkan pesan konfirmasi personal (JAPRI) yang rinci dan netral."
+
+**Internal agreement:**  
+Sebelum pukul 15.30 WIB, saya akan memisahkan emosi dari tindakan, mengonfirmasi status ke masing-masing anggota secara pribadi, dan menetapkan batas waktu konfirmasi ulang (*checkpoint*) pukul 18.00 WIB sebelum mengambil langkah penyesuaian pengerjaan.
+
+---
+
+## Evidence tindakan
+
+1. **Pesan Klarifikasi Asertif (JAPRI dikirim pukul 15.22 WIB):**  
+   *"Halo [Rekan A], mau konfirmasi terkait bagian Bab 2. Apakah ada kendala dalam penyusunan drafnya? Mohon kabar sebelum pukul 18.00 WIB ya agar kita bisa menyesuaikan integrasi dokumen kelompok."*
+2. **Respon Balasan (Pukul 16.05 WIB):**  
+   Rekan A membalas bahwa area tempat tinggalnya mengalami pemadaman listrik sejak pagi dan berjanji mengunggah bagian tugasnya pukul 19.30 WIB.
+3. **Pembaruan Dokumen Kerja:**  
+   Penyusunan alur tugas berhasil direvisi tanpa terjadi konflik personal, dan dokumen utama terintegrasi penuh pada pukul 21.00 WIB.
+
+---
+
+## Feedback, AI, dan refleksi
+
+* **Umpan Balik Rekan (Observer):** Teman sejawat mengonfirmasi bahwa asumsi awal saya (*"sengaja mengabaikan"*) adalah bentuk dramatisasi batin yang dipicu oleh rasa cemas terhadap tenggat waktu.
+* **Penggunaan AI sebagai Cermin:** AI digunakan untuk memilah draf kalimat pesan agar terbebas dari bias penuduhan dan kata-kata absolut (seperti *"selalu"* atau *"pasti"*). AI tidak digunakan untuk mengambil keputusan emosional.
+* **Refleksi Praktis:** Mengambil jeda (*pause*) saat emosi memuncak terbukti mencegah potensi konflik yang merugikan hubungan jangka panjang.
+
+---
+
+## Self-assessment
+
+| Dimensi Evaluasi | Skor | Evidence Singkat & Alasan |
+|---|---:|---|
+| **Person & Character** | 4/4 | Mampu mengidentifikasi tokoh batin (*Sang Hakim*, *Sang Pencemas*, *Sang Perencana*) dan mengarahkan kepemimpinan diri secara sadar. |
+| **Objective & State** | 3/4 | Berhasil mengukur intensitas emosi (8/10 ke 3/10) dan mengenali sinyal tubuh secara objektif. |
+| **Repertoire, Language & AI** | 4/4 | Menerapkan teknik jeda napas, jurnal tiga narasi, serta memanfaatkan AI secara etis sebagai cermin netral. |
+| **Response & Adaptation** | 3/4 | Mampu beradaptasi dari dorongan reaktif pasif-agresif menjadi tindakan asertif berstruktur. |
+| **Agreement, Action & Relationship** | 4/4 | *Internal agreement* terwujud dalam bentuk pesan nyata, menjaga hubungan kelompok, dan menyelesaikan tugas tepat waktu. |
+
+**Total Skor: 18 / 20 — Kompeten Tingkat Tinggi**
