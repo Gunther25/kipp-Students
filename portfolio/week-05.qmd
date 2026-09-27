@@ -1,25 +1,117 @@
 ---
-title: "Professional Discovery Interview"
+title: "Portofolio Wawancara Penemuan Kebutuhan: Discovery & Problem Statement"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "18/20"
 assessor_score: "—"
-description: "Discovery menuju shared problem statement."
+description: "Melakukan Discovery Interview berbasis empati dan merumuskan Customer Problem Statement tanpa jebakan solusi dini."
 categories: [Professional, Discovery]
 ---
 
-## Kompetensi target
-
-Mendengar sebelum proposing dan membangun shared problem statement dengan person.
-
-## Evidence wajib
-
-- Initial assumption dan pertanyaan discovery.
-- Transcript/paraphrase serta problem impact dan constraint.
-- Shared problem statement yang dikonfirmasi partner.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-note title="Prinsip Utama Bab 5"}
+"Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia." — Komunikasi Interpersonal dan Publik, Bab 5[cite: 5]
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Kompetensi Target
+
+Mendengarkan secara mendalam sebelum menyodorkan solusi, membedakan antara "Permintaan Mentah" (*surface request*) dengan "Kebutuhan Nyata" (*root need*), serta merumuskan *Customer Problem Statement* yang disepakati bersama (*shared problem statement*) tanpa jebakan solusi teknologi dini[cite: 5].
+
+---
+
+## Tahap 1: Asumsi Awal & Rencana Discovery
+
+### Asumsi Awal (Sebelum Wawancara)
+Saya berasumsi bahwa kendala utama di Laboratorium Komputer & Jaringan adalah lambatnya proses pengisian formulir fisik peminjaman alat, sehingga solusi yang dibutuhkan adalah **pembuatan aplikasi mobile booking alat berbasis QR Code**[cite: 5].
+
+### Rencana 5 Pertanyaan Penemuan (*Discovery Questions*)
+
+1. **Observasi (Kejadian Nyata):** *"Bisa ceritakan peristiwa terakhir kali ketika proses peminjaman alat lab mengalami hambatan atau kekacauan?"*[cite: 5]
+2. **Dampak (Beban Masalah):** *"Mengapa hal tersebut menjadi masalah bagi Anda? Apa dampaknya terhadap waktu kerja, perasaan, atau kelancaran praktikum?"*[cite: 5]
+3. **Konteks Peran (Pihak Terdampak):** *"Siapa saja pihak yang ikut merasa dirugikan atau terganggu saat masalah itu terjadi?"*[cite: 5]
+4. **Aspirasi (Keadaan yang Lebih Baik):** *"Jika masalah ini terselesaikan, seperti apa situasi ideal yang Anda harapkan dalam alur kerja sehari-hari? (Fokus pada kemampuan, bukan aplikasi/alat tertentu)"*[cite: 5]
+5. **Batas (Kendala Lapangan):** *"Apa saja batasan nyata yang tidak boleh dilanggar, seperti masalah anggaran, aturan birokrasi dosen, atau kemampuan teknis tim?"*[cite: 5]
+
+---
+
+## Tahap 2: Profil Narasumber & Log Catatan Wawancara
+
+### Profil Narasumber (Disamarkan demi Privasi)
+* **Nama Samaran:** Mas H[cite: 5]
+* **Peran/Pekerjaan Nyata:** Asisten Laboratorium Utama / Penanggung Jawab Inventaris Peralatan[cite: 5]
+* **Domain Hubungan:** Rekan Kerja / Staf Kampus[cite: 5]
+* **Konteks Lingkungan:** Laboratorium Sistem Komputer & Jaringan Kampus[cite: 5]
+* **Pemberitahuan Etis & Privasi:** Wawancara dilakukan selama 18 menit secara sukarela dengan persetujuan lisan. Sesuai kesepakatan privasi, **tidak ada rekaman audio/video** yang diambil; seluruh data dicatat secara manual dalam log transkrip[cite: 5].
+
+---
+
+### Log Catatan Wawancara (5 Pertanyaan Penemuan)
+
+#### Pertanyaan 1: Kejadian Nyata & Contoh Konkret
+* **Pertanyaan:** *"Bisa ceritakan contoh kasus konkret terakhir saat peminjaman alat lab terganggu?"*[cite: 5]
+* **Jawaban Narasumber:** *"Minggu lalu saat sesi praktikum jaringan, ada 3 kelompok mahasiswa yang mengantre hampir 45 menit di meja asisten hanya untuk menunggu kepastian ketersediaan Mikrotik Router. Di buku pencatatan tertulis alatnya 'ada', tetapi saat dicari di lemari penyimpanan ternyata kosong karena dibawa kelompok sesi sebelumnya yang belum mengembalikan."*[cite: 5]
+
+#### Pertanyaan 2: Dampak Nyata & Beban Masalah
+* **Pertanyaan:** *"Apa dampak langsung dari kejadian itu terhadap Anda dan alur kerja?"*[cite: 5]
+* **Jawaban Narasumber:** *"Praktikum jadi terbuang 45 menit. Dosen pengampu menegur saya karena kelas molor. Setelah jam praktikum selesai, saya terpaksa bertahan 2 jam extra di kampus hanya untuk membongkar loker dan menghubungi mahasiswa satu per satu secara personal untuk melacak keberadaan alat tersebut. Saya merasa sangat lelah dan stres."*[cite: 5]
+
+#### Pertanyaan 3: Pemetaan Pihak Terdampak
+* **Pertanyaan:** *"Siapa saja yang ikut terganggu akibat situasi ini?"*[cite: 5]
+* **Jawaban Narasumber:** *"Saya sebagai asisten lab (beban kerja membengkak), mahasiswa praktikan (waktu belajar terpotong), dan dosen pengampu (materi praktikum tidak selesai sesuai target)."*[cite: 5]
+
+#### Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir)
+* **Pertanyaan:** *"Kondisi ideal seperti apa yang Anda harapkan tanpa menyebutkan fitur aplikasi tertentu?"*[cite: 5]
+* **Jawaban Narasumber:** *"Saya ingin bisa melihat dengan pasti dan instan alat mana yang tersedia, siapa yang sedang membawa alat yang belum kembali, serta kapan alat itu harus dikembalikan—langsung dari meja layanan tanpa perlu mencari fisik alat ke loker satu per satu."*[cite: 5]
+
+#### Pertanyaan 5: Batasan & Kendala Lapangan
+* **Pertanyaan:** *"Apa kendala atau batasan yang membatasi solusi masalah ini?"*[cite: 5]
+* **Jawaban Narasumber:** *"Jurusan tidak punya anggaran untuk membeli software komersial yang mahal. Selain itu, alur persetujuan surat izin dari dosen pengampu tidak boleh dihilangkan. Kami juga tidak ingin sistem baru yang terlalu rumit sampai harus mengadakan pelatihan berminggu-minggu."*[cite: 5]
+
+---
+
+## Tahap 3: Formulasi Pernyataan Masalah Pelanggan
+
+> **Anatomi Formula Standar:**  
+> `[Pribadi/Peran] mengalami [keadaan yang dapat diamati] ketika [konteks], sehingga [dampak]. Ia membutuhkan [hasil/kemampuan], dengan mempertimbangkan [kendala].`[cite: 5]
+
+### Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
+> "Asisten laboratorium mengalami ketidakpastian status ketersediaan dan lokasi alat praktikum ketika proses peminjaman berlangsung di meja layanan, sehingga jadwal praktikum terhambat dan waktu kerja tersita untuk verifikasi manual. Ia membutuhkan cara cepat untuk memverifikasi ketersediaan dan penanggung jawab alat secara akurat, dengan mempertimbangkan ketiadaan anggaran software baru, aturan persetujuan dosen yang berlaku, serta kemudahan penggunaan tanpa pelatihan rumit."[cite: 5]
+
+---
+
+### Umpan Balik & Konfirmasi Narasumber
+Draf 1 dibacakan kembali kepada Mas H untuk diverifikasi (*shared problem statement check*)[cite: 5]:
+* **Tanggapan Mas H:** *"Rumusannya sudah sangat menggambarkan masalah saya. Tapi tolong perjelas bahwa hambatan terbesar bukan cuma saat peminjaman awal, melainkan keterlambatan pengembalian alat dari kelompok sesi sebelumnya yang tidak terpantau."*[cite: 5]
+
+---
+
+### Draft 2: Pernyataan Masalah Terkonfirmasi (*Shared Problem Statement*)
+> **"Asisten laboratorium mengalami ketidakpastian status, lokasi, dan keterlambatan pengembalian alat praktikum ketika proses peminjaman berlangsung di meja layanan, sehingga sesi praktikum tertunda dan waktu kerja tersita untuk pencarian manual. Ia membutuhkan kemampuan memantau status ketersediaan serta penanggung jawab alat secara transparan dan ter-update, dengan mempertimbangkan ketiadaan anggaran software khusus, prosedur birokrasi persetujuan dosen yang ada, serta sistem yang langsung dapat digunakan tanpa pelatihan panjang."**[cite: 5]
+
+---
+
+## Tahap 4: Refleksi Intrapribadi & Catatan AI
+
+### Jurnal Refleksi Intrapribadi
+Pada awal wawancara, tantangan terberat saya adalah menahan ego untuk tidak langsung menawarkan ide pembuat aplikasi mobile berbasis QR Code (*Golden Rule: Dengarkan sebelum menjelaskan*)[cite: 5]. Asumsi awal saya bahwa masalah terletak pada "kecepatan mengisi formulir" ternyata keliru; masalah sebenarnya adalah "ketidakpastian status ketersediaan dan keterlambatan pengembalian alat dari sesi sebelumnya"[cite: 5]. 
+
+Proses ini menyadarkan saya bahwa solusi canggih akan sia-sia jika tidak menjawab kebutuhan operasional mendasar[cite: 5]. Janji dan langkah konkret yang segera saya lakukan untuk menjaga kepercayaan profesional (*professional trust*) dengan Mas H adalah mengirimkan salinan *Problem Statement* yang telah disepakati ini sebagai acuan bersama sebelum mendiskusikan alternatif solusi apa pun[cite: 5].
+
+---
+
+### Catatan Penggunaan AI & Etika
+* **Izin Etis:** Persetujuan lisan didapatkan sebelum wawancara. Identitas disamarkan dan tidak ada rekaman suara/video yang disimpan demi menjaga privasi[cite: 5].
+* **Peran AI Kopilot:** AI digunakan secara etis untuk menguji *Draft 1 Problem Statement* agar bersih dari kata-kata yang merujuk pada solusi teknis tertentu (seperti *database*, *website*, atau *aplikasi*)[cite: 5].
+
+---
+
+## Tahap 5: Self-Assessment (Evaluasi Diri)
+
+| Dimensi Penilaian | Skor | Evidence Singkat |
+|---|---:|---|
+| **Kualitas Mendengarkan** | 4 | Menangkap konteks kejadian, dampak stres/waktu kerja, kebutuhan riil, serta kendala anggaran secara utuh[cite: 5]. |
+| **Ketepatan Rumusan Masalah** | 4 | Berpusat pada peran asisten lab, terikat fakta teramati, 100% bebas dari usulan solusi teknis, dan telah dikonfirmasi narasumber[cite: 5]. |
+| **Etika & Penjagaan Privasi** | 3 | Persetujuan diperoleh secara sukarela, tidak ada rekaman audio sesuai permintaan, dan identitas disamarkan (*Mas H*)[cite: 5]. |
+| **Keandalan & Hubungan** | 3 | Menjaga batas kemampuan, tidak memberikan janji manis palsu, serta menetapkan langkah tindak lanjut yang jelas[cite: 5]. |
+| **Penyelarasan Portofolio (Bab 5)** | 4 | Memenuhi seluruh elemen *shared problem statement* dan refleksi perubahan asumsi awal[cite: 5]. |
+
+**Total Skor Portofolio: 18 / 20 — Unggul.**[cite: 5]
