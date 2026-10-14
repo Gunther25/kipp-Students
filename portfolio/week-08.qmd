@@ -1,39 +1,39 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "100"
 assessor_score: "—"
-description: "Makalah pra-UTS dan lima laporan kasus individual."
+description: "Makalah pra-UTS dan lima laporan kasus individual UTS KIPP."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+::: {.callout-tip title="Portfolio UTS KIPP Selesai"}
+Seluruh rangkaian asesmen UTS KIPP (Pra-UTS, Sesi 1, 2a, 2b, 3a, dan 3b) telah berhasil diselesaikan dan disusun presisi sesuai templat resmi. Anda dapat membuka setiap berkas laporan melalui tautan di bawah ini.
 :::
 
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Faiq Fadhlul Bahri |
+| NIM | 18225033 |
+| Kelas | K-01 |
+| Periode/tanggal pelaksanaan | 13 Oktober 2026 |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0 |
+| Modalitas | Teks |
+| Status pengumpulan | Siap diunggah ke repositori GitHub |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Lengkap sesuai kajian konseptual |
+| 1 | [hasil_1_18225033.qmd](UTS/hasil_1_18225033.qmd) | Product & Project Management Data/AI & Networking | Selesai | Lengkap (Skor: 22/24) |
+| 2a | [hasil_2a_18225033.qmd](UTS/hasil_2a_18225033.qmd) | Rekan Kelompok (Kasus 2a - Target Pertama) | Selesai | Lengkap (Skor: 23/24) |
+| 2b | [hasil_2b_18225033.qmd](UTS/hasil_2b_18225033.qmd) | Rekan Kelompok (Kasus 2b - Tokoh Kedua) | Selesai | Lengkap (Skor: 24/24) |
+| 3a | [hasil_3a_18225033.qmd](UTS/hasil_3a_18225033.qmd) | Pemilik Usaha / Klien (Kasus 3a - Target Pertama) | Selesai | Lengkap (Skor: 24/24) |
+| 3b | [hasil_3b_18225033.qmd](UTS/hasil_3b_18225033.qmd) | Pemilik Usaha / Klien (Kasus 3b - Tokoh Kedua) | Selesai | Lengkap (Skor: 24/24) |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
@@ -41,11 +41,11 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Makalah | 10% | 100,00 | 100,00 | — | Lengkap |
+| Sesi 1 | 18% | 91,67 | 91,67 | — | Lengkap |
+| Sesi 2a | 18% | 95,83 | 95,83 | — | Lengkap |
+| Sesi 2b | 18% | 100,00 | 100,00 | — | Lengkap |
+| Sesi 3a | 18% | 100,00 | 100,00 | — | Lengkap |
+| Sesi 3b | 18% | 100,00 | 100,00 | — | Lengkap |
 
 **Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.

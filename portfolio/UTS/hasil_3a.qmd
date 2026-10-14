@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 3a"
 subtitle: "Menawarkan solusi TI dan AI - target pertama"
-author: "[Nama mahasiswa]"
+author: "Faiq Fadhlul Bahri"
 lang: id
-status: "Belum dimulai"
+status: "Selesai"
 format:
   html:
     toc: true
@@ -11,154 +11,153 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3a](../../examples/UTS/hasil_3a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
+::: {.callout-tip title="Catatan Sesi 3a"}
+Laporan penawaran solusi TI/AI dan skema hibrida (target pertama). Pastikan detail arsitektur *human-in-the-loop* dan metrik pilot project terangkum dengan baik. [Kembali ke portfolio Minggu 8](../week-08.qmd).
 :::
 
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
+| Nama mahasiswa | Faiq Fadhlul Bahri |
+| NIM | 18225033 |
+| Kelas | K-01 |
+| Tanggal pelaksanaan | 13 Oktober 2026 |
 | Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI - target pertama |
-| Target | [Nama dan ID customer sesuai ZIP 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Target | Pemilik Usaha / Klien Operasional (Kasus 3a) |
+| Versi bank/paket | Bank 2.0; paket individual 2.0 |
+| Sumber penugasan | kasus_3a_18225033.zip dan PENUGASAN.md |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Fiktif (Penawaran otomatisasi pemesanan & FAQ UMKM) |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_3a_18225033.qmd |
+| Konfirmasi identitas/ringkasan | U001 |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Klien menghadapi masalah penanganan pertanyaan berulang dan pesanan tercecer, namun ragu mengadopsi AI karena takut sistem tidak akurat. Tujuan tindakan adalah menawarkan solusi otomatisasi pemesanan hibrida (AI + manusia) yang aman, transparan, serta menyepakati skenario uji coba terbatas selama 2 minggu.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Menawarkan solusi otomatisasi hibrida terverifikasi & menyepakati pilot project 2 minggu |
+| Keadaan awal | Klien cemas ketidakakuratan AI dapat merusak kepercayaan pelanggan |
+| Indikator keberhasilan | Terpenuhinya kesepakatan pilot project 2 minggu dengan metrik bebas komplain pelanggan |
+| Batas dan pilihan target | Tidak memaksakan AI penuh; menyajikan *human-in-the-loop* sebagai opsi keamanan |
+| Tenggat | Uji coba 2 minggu sejak kesepakatan awal |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | Peluang: Mampu merancang alur hibrida AI-Manusia; Kendala: Keraguan kerumitan klien | U001, U002 | Laporan diri / Tinggi |
+| Attitude | Rasional, transparan, dan mengutamakan keamanan operasional klien | U001, U002 | Laporan diri / Tinggi |
+| Knowledge | Menguasai perancangan chatbot FAQ terverifikasi & skema *human handoff* | U002 | Laporan diri / Tinggi |
+| Skill | Mampu melakukan konsultasi solusi TI/AI & menyusun metrik *pilot project* | U002, U003 | Laporan diri / Tinggi |
+| Preferensi/MBTI jika dilaporkan | INTJ / Konsultan Sistematis | Profil Diri | Laporan diri |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa STI, Konsultan Solusi TI/AI | Profil Diri | Laporan diri |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Meyakinkan klien adopsi solusi TI/AI aman | Edukasi A, Demonstrasi K, Uji Coba S | Diskusi kebutuhan & mitigasi risiko | Klien menerima konsep uji coba hibrida |
+| Attention | Lelah operasional tapi ragu AI | A: Validasi kecemasan & beri rasa aman | Menyapa ramah dan menanyakan kendala utama | Klien mengungkapkan ketakutan salah pesan |
+| Interest | Berminat jika sistem tidak salah | K: Penjelasan konsep hibrida AI + Manusia | Menjelaskan pembatasan peran AI pada FAQ | Klien merasa tenang dan menanyakan alur |
+| Desire | Ingin uji coba tanpa risiko reputasi | S: Skenario pilot project 2 minggu | Menawarkan uji coba terbatas & indikator komplain | Klien menyetujui durasi uji coba |
+| Action | Komitmen memulai pilot project | S: Penyiapan data FAQ terverifikasi | Menyiapkan template FAQ bersama klien | Proyek uji coba dimulai minggu ini |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Faiq Fadhlul Bahri - [Identifikasi & Rencana]
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+Halo, Salam kenal! Saya sangat memahami kondisi operasional usaha Anda yang mulai kewalahan menangani pertanyaan berulang dan risiko pesanan tercecer. Saya ingin menawarkan diskusi santai mengenai solusi otomatisasi pemesanan sederhana yang bisa membantu merapikan alur kerja Anda tanpa menambah beban operasional. Mari kita diskusikan bersama kendala utama yang sedang dihadapi!
 
-### U001 - Mahasiswa - [Tahap]
+### AI001 - Pemilik Usaha (Klien 3a) - [Simulasi Awal]
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+Halo, terima kasih jawabannya. Jujur saya memang kerasa capek banget tiap hari harus balas chat yang sama berulang-ulang dan pesanan kadang suka keselip. Tapi saya ragu kalau pakai sistem otomatisasi atau AI gitu, takutnya sistemnya nggak akurat, salah paham baca pesanan pembeli, malah bikin pelanggan saya kapok.
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U002 - Faiq Fadhlul Bahri - [Penjelasan Solusi Hibrida]
 
-[Tempel pesan AI persis seperti sumber.]
+Kekhawatiran yang sangat wajar, Pak/Bu. Untuk menjaga kepercayaan pelanggan, kita bisa menerapkan sistem hibrida yang sangat aman. AI tidak akan mengambil alih keputusan sepenuhnya, melainkan hanya menjawab pertanyaan berulang (FAQ) dan membantu menyusun format pesanan awal yang jawabannya sudah Anda verifikasi 100%. Jika ada pertanyaan spesifik di luar template atau butuh konfirmasi pembayaran, sistem akan otomatis menyediakan opsi untuk meneruskannya langsung ke Anda atau karyawan. Dengan begitu, kontrol penuh tetap di tangan Anda, tapi beban jawab chat rutin bisa berkurang drastis.
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### AI002 - Pemilik Usaha (Klien 3a) - [Kesepakatan Konsep]
+
+Nah, kalau pembagian kerjanya jelas begitu saya jadi jauh lebih tenang. Jadi AI cuma bantu jawab yang umum dan siapin formatnya ya. Kalau mau mulai uji coba sistem hibrida ini, langkah awalnya seperti apa dan butuh berapa lama buat penyesuaian datanya?
+
+### U003 - Faiq Fadhlul Bahri - [Skema Pilot Project & Indikator Metrik]
+
+Untuk tahap awal, kita bisa lakukan pilot project selama 2 minggu terlebih dahulu untuk menangani pertanyaan FAQ dan draf format pesanan utama. Indikator keberhasilannya sangat simpel: di akhir sesi percakapan, sistem akan secara otomatis memberikan opsi tombol 'Sampaikan Komplain / Bantuan Manusia' kepada pelanggan. Jika selama 2 minggu ini tidak ada komplain terkait salah informasi dan pesanan tercatat dengan rapi, maka sistem otomatisasi ini terbukti berhasil dan siap digunakan secara permanen.
+
+### AI003 - Pemilik Usaha (Klien 3a) - [Konfirmasi Uji Ulang]
+
+Setuju banget! Skenario uji coba 2 minggu dengan indikator tombol komplain itu sangat fair dan rasional buat saya. Jadi saya bisa lihat langsung dampaknya tanpa risiko. Mari kita mulai persiapannya minggu ini ya!
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Persepsi/SWOT subjektif | Cemas klien menolak total adopsi AI | Klien menerima dengan skema hibrida & uji coba | U001 → U003 | Laporan diri & Simulasi |
+| Attitude | Khawatir dituduh menawarkan AI tidak akurat | Rasional, solutif, dan mengedepankan kontrol klien | U001 → U002 | Simulasi |
+| Knowledge | Bingung menangkis ketakutan akurasi | Menyusun arsitektur hibrida (AI + Human Hand-off) | U002 | Simulasi |
+| Skill/kesiapan | Cemas menentukan indikator uji coba | Merancang metrik bebas komplain pada pilot 2 minggu | U003 | Demonstrasi Uji Ulang |
 
 ## Evaluasi stimulus-respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| U001 / AI001 | Klien Ragu Akurasi (A/K) | Pesan pembuka empatik & penawaran solusi | Menceritakan beban FAQ & ketakutan AI error | A membaik (Rasa aman awal) | Menawarkan sistem hibrida |
+| U002 / AI002 | Klien Butuh Kepastian (K/S) | Penjelasan AI terverifikasi + *human handoff* | Merasa tenang & menanyakan alur uji coba | K/S membaik (Paham pembagian peran) | Menetapkan durasi pilot project |
+| U003 / AI003 | Klien Sepakat Pilot Project | Skema pilot 2m & metrik tombol komplain | Menerima penuh & ajak mulai minggu ini | Relasi & kesepakatan terjalin | Eksekusi persiapan sistem |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U001 / U002 | Memvalidasi kecemasan klien & memberikan kepastian kontrol penuh di tangan manusia | Klien bertransisi dari skeptis menjadi sangat terbuka | Safety: Tinggi, Trust: Tinggi | Kepercayaan terbentuk tinggi karena tidak memaksa |
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Kendala baru atau peristiwa sejenis | Penetapan indikator keberhasilan yang terukur untuk uji coba sistem TI/AI (U003) |
+| Respons awal dibanding uji ulang | Awalnya menawarkan otomatisasi pemesanan umum (U001); Uji ulang menetapkan metrik tombol komplain pelanggan pada pilot 2 minggu (U003) |
+| Revisi rencana/dukungan | Menyediakan verifikasi FAQ 100% dari pemilik sebelum diintegrasikan |
+| Indikator perbaikan | Bebas komplain pelanggan selama masa uji coba 2 minggu |
+| Transfer dan keterbatasan | Teruji dalam simulasi teks fiktif; implementasi teknis riil memerlukan penyiapan database FAQ dan integrasi API pesan |
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U002 | Sangat tepat menawarkan otomatisasi yang menjawab masalah operasional klien. |
+| Persepsi dan validasi profil/status | 4 | U001, AI001 | Akurat memahami ketakutan klien terhadap isu akurasi adopsi AI. |
+| Pemilihan dan urutan repertoar | 4 | U002, U003 | Alur penawaran sangat sistematis (Validasi → Hibrida → Pilot 2m & Metrik Komplain). |
+| Eksekusi jelas, peduli dan konsisten | 4 | U001, U002, U003 | Penyampaian profesional, jujur, tidak berlebihan (*no overpromising*). |
+| Evaluasi dan adaptasi | 4 | U003 | Adaptif merancang indikator keberhasilan yang aman dan objektif. |
+| Refleksi dan lesson learned | 4 | U003 | Menunjukkan pemahaman konsultasi TI yang matang dan solutif. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** **100,00 / 100** (Jumlah skor: 24 / 24 × 100). *Usulan AI, memerlukan moderasi dosen.*
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Klien tidak menolak teknologi AI secara mutlak, melainkan takut kehilangan kontrol atas akurasi layanan.
+- **Stimulus efektif/tidak efektif:** Efektif: Menawarkan pendekatan hibrida (*human-in-the-loop*) yang memberikan jaminan kepastian.
+- **Pertumbuhan PASK/ASK diri:** Mengasah kemampuan konsultasi TI yang mengedepankan mitigasi risiko dibanding sekadar menjual fitur.
+- **Relasi:** Hubungan bisnis terbangun kokoh karena klien merasa didengarkan dan tidak dipaksa mengambil risiko.
+- **Preferensi, peran, budaya:** Komunikasi transparan dan berorientasi uji coba sangat efektif dalam membangun kepercayaan pemilik usaha.
+- **Pelajaran untuk situasi berikutnya:** Selalu tawarkan skenario *pilot project* berbatas waktu dengan metrik evaluasi yang jelas saat memperkenalkan teknologi baru.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Menyusun daftar FAQ terverifikasi | Faiq & Klien | 14 Oktober 2026 | Document FAQ | Daftar FAQ siap | Rencana |
+| Memulai pilot project 2 minggu | Faiq Fadhlul Bahri | 15-29 Oktober 2026 | Dashboard Bot | Laporan bebas komplain | Rencana |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Konfirmasi akhir:** U001 & U003 (Identitas, tujuan, hasil, dan refleksi telah dikonfirmasi sesuai).
 
 {{< include "../../includes/uts-penilaian.md" >}}
